@@ -1,0 +1,6 @@
+# ALI HUB Supabase project configuration.
+# Link this folder to your existing Supabase project with: supabase link --project-ref YOUR_PROJECT_REF
+project_id = "ali-hub"
+
+[functions.ai-assistant]
+verify_jwt = true

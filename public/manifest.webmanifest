@@ -1,0 +1,10 @@
+{
+  "name": "ALI HUB - Personal Digital Workspace",
+  "short_name": "ALI HUB",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#172554",
+  "description": "Offline-first personal digital workspace",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
