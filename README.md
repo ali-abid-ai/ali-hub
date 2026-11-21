@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ALI HUB — Complete Cloud Workspace
 
 This is a complete Vite + React project based on the ALI HUB module package. It adds the missing project shell, Books module, Supabase authentication, PostgreSQL-backed records, private document storage, responsive styling, and local-data migration.
@@ -55,3 +56,7 @@ Dashboard, My Books, Knowledge Vault, Quizzes, Assignments, My Websites, Reposit
 
 ## Build check
 Run `npm run build` before deploying.
+=======
+# ali-hub
+ALI HUB is an all-in-one personal productivity and learning management platform built with React, Vite, and Supabase. It brings together an AI Assistant, document management, books, notes, tasks, reminders, calendar, assignments, quizzes, projects, websites, and GitHub repository management in one place, with cloud synchronization, offline support.
+>>>>>>> origin/main
